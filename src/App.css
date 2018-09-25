@@ -26,3 +26,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+#cocktail-list {
+  padding: "20px";
+  border: "1px solid blue";
+  width: "200px";
+  height:"600px";
+  overflow:"auto";
+}
+
+cocktail-display {
+  width: 2fr
+}
